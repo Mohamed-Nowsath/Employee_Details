@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": "3",
+      "name": "Aqib Mohamed",
+      "email": "aqib@gmail.com",
+      "phone": 7373931589
+    },
+    {
+      "id": "b61f",
+      "name": "Mohamed Nowsath ",
+      "email": "nowsathniz143@gmail.com",
+      "phone": "7373931589"
+    },
+    {
+      "id": "2e69",
+      "name": "Mohamed Nowsath S",
+      "email": "nowsathniz143@gmail.com",
+      "phone": "7373931589"
+    },
+    {
+      "id": "f0f7",
+      "name": "Mohamed Aqib",
+      "email": "aqib@gmail.com",
+      "phone": "7373931589"
+    },
+    {
+      "id": "cbb9",
+      "name": "Nowsath",
+      "email": "Nowsath",
+      "phone": "Nowsath"
+    },
+    {
+      "id": "4a59",
+      "name": "james",
+      "email": "james@gamil.com",
+      "phone": "9875389854"
+    },
+    {
+      "id": "d3ef",
+      "name": "Nowsath Mohamed",
+      "email": "7373931589",
+      "phone": "987357265"
+    },
+    {
+      "id": "39b5",
+      "name": "Dinesh K",
+      "email": "dineshk@gamil.com",
+      "phone": "9873572659"
+    }
+  ]
+}
